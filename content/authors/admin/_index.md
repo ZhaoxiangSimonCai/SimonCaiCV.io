@@ -59,30 +59,41 @@ social:
   link: https://www.linkedin.com/in/zhaoxiang-cai/
 
 skills:
-- description: 50%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: 70%
-  icon: bug
-  icon_pack: fas
-  name: C++
-- description: 80%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 100%
-  icon: brain
-  icon_pack: fas
-  name: ML/DL
-- description: 90%
-  icon: linux
-  icon_pack: fab
-  name: Linux
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 100
+        icon: python
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: brain
+      - name: R
+        description: ''
+        percent: 80
+        icon: r-project
+      - name: Linux
+        description: ''
+        percent: 90
+        icon: linux
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Skiing/Snowboarding
+        description: ''
+        percent: 100
+        icon: ski
+      - name: Badminton
+        description: ''
+        percent: 80
+        icon: cat
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: camera
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
