@@ -94,7 +94,7 @@ sections:
           company_logo: cmri
           location: Westmead
           date_start: '2023-02-01'
-          date_end: 'current'
+          date_end: ''
           description: |2-
               
               * Designed and built multi-view VAE models customised for multi-omic data integration
