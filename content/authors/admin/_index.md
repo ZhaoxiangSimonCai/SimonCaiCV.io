@@ -88,7 +88,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 80
-        icon: shuttlecock
+        icon: medal
       - name: Reading
         description: ''
         percent: 80
