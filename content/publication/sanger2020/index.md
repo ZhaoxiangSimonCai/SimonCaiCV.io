@@ -58,7 +58,7 @@ abstract: The proteome provides unique insights into disease biology beyond the 
 tags: ["Deep Learning", "Machine learning", "Multi-omics", "Pan-cancer", "Drug response", "CRISPR-Cas9"]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
