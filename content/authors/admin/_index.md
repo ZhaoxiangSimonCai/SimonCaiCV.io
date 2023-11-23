@@ -84,15 +84,15 @@ skills:
       - name: Skiing/Snowboarding
         description: ''
         percent: 100
-        icon: ski
+        icon: person-skiing
       - name: Badminton
         description: ''
         percent: 80
-        icon: cat
+        icon: shuttlecock
       - name: Reading
         description: ''
         percent: 80
-        icon: camera
+        icon: book
 
 
 # Link to a PDF of your resume/CV.
