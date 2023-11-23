@@ -22,6 +22,7 @@ bio: Innovative researcher and engineer with experience in both academia and ind
 interests:
 - Artificial Intelligence
 - Cancer Research
+- Big Data
 - Computer Vision
 
 # Education to show in About widget
@@ -76,7 +77,7 @@ skills:
       - name: Linux
         description: ''
         percent: 90
-        icon: ubuntu
+        icon: linux
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
