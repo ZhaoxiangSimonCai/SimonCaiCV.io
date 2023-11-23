@@ -46,32 +46,6 @@ sections:
     content:
       title: Skills
       text: ''
-      feature:
-        - description: 50%
-          icon: r-project
-          icon_pack: fab
-          name: R
-        - description: 100%
-          icon: python
-          icon_pack: fab
-          name: Python
-        - description: 70%
-          icon: bug
-          icon_pack: fas
-          name: C++
-        - description: 80%
-          icon: chart-line
-          icon_pack: fas
-          name: Statistics
-        - description: 100%
-          icon: brain
-          icon_pack: fas
-          name: ML/DL
-        - description: 90%
-          icon: linux
-          icon_pack: fab
-          name: Linux
-
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:

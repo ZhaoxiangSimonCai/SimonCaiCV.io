@@ -58,6 +58,33 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/zhaoxiang-cai/
 
+skills:
+  feature:
+    - description: 50%
+      icon: r-project
+      icon_pack: fab
+      name: R
+    - description: 100%
+      icon: python
+      icon_pack: fab
+      name: Python
+    - description: 70%
+      icon: bug
+      icon_pack: fas
+      name: C++
+    - description: 80%
+      icon: chart-line
+      icon_pack: fas
+      name: Statistics
+    - description: 100%
+      icon: brain
+      icon_pack: fas
+      name: ML/DL
+    - description: 90%
+      icon: linux
+      icon_pack: fab
+      name: Linux
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
