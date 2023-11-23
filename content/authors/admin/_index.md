@@ -66,6 +66,7 @@ skills:
         description: ''
         percent: 100
         icon: python
+        icon_pack: fab
       - name: Data Science
         description: ''
         percent: 100
@@ -74,10 +75,12 @@ skills:
         description: ''
         percent: 80
         icon: r-project
+        icon_pack: fab
       - name: Linux
         description: ''
         percent: 90
         icon: linux
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
