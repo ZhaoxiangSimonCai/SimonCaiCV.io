@@ -43,6 +43,20 @@ sections:
               * Designed and built multi-view VAE models customised for multi-omic data integration
               * Performed various machine learning analyses on omics data
 
+
+        - title: Lecturer
+          company: Australia Education Management Group
+          company_url: 'https://www.aemg.com.au/home/'
+          company_logo: AEMG
+          location: Melbourne
+          date_start: '2023-03-01'
+          date_end: ''
+          description: |2-
+              
+              * Fundamentals of Programming
+              * Software Engineering with Java
+
+
         - title: Data Scientist
           company: Children's Medical Research Institute
           company_url: 'https://www.cmrijeansforgenes.org.au/'
