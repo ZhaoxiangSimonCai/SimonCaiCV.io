@@ -31,6 +31,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Conjoint Associate Lecturer
+          company: University of Sydney
+          company_url: 'https://www.sydney.edu.au/'
+          company_logo: usyd
+          location: Sydney
+          date_start: '2023-06-15'
+          date_end: ''
+
         - title: Senior Data Scientist
           company: Children's Medical Research Institute
           company_url: 'https://www.cmrijeansforgenes.org.au/'
