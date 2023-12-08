@@ -48,8 +48,11 @@ sections:
           date_end: ''
           description: |2-
               
-              * Designed and built multi-view VAE models customised for multi-omic data integration
-              * Performed various machine learning analyses on omics data
+              *	Developed new deep learning-based approach to incorporate human knowledge for multi-omic data integration
+              *	Designed and built multi-view VAE models customised for multi-omic data integration
+              *	Performed end-to-end whole exome/genome sequencing data analyses for germline/somatic mutations, copy number variations and structural variants
+              *	Performed end-to-end proteomic data analyses, including data QC, peptide-to-protein rollup, pre-processing, differential expression analysis, pathway analysis and survival analysis
+              *	Worked on integrating histopathological images with proteomic data to improve diagnosis
 
 
         - title: Lecturer
