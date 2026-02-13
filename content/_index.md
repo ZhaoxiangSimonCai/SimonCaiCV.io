@@ -31,6 +31,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Cancer Institute NSW Early Career Fellow
+          company: Children's Medical Research Institute
+          company_url: 'https://www.cmrijeansforgenes.org.au/'
+          company_logo: cmri
+          location: Westmead
+          date_start: '2026-01-01'
+          date_end: ''
+          description: |2-
+              * Improving Cancer Diagnosis and Prognosis via Generative Proteomic Foundation Model and Federated Learning
+
         - title: Conjoint Associate Lecturer
           company: University of Sydney
           company_url: 'https://www.sydney.edu.au/'
@@ -55,17 +65,16 @@ sections:
               *	Worked on integrating histopathological images with proteomic data to improve diagnosis
 
 
-        - title: Lecturer
-          company: Australia Education Management Group
-          company_url: 'https://www.aemg.com.au/home/'
-          company_logo: AEMG
-          location: Melbourne
-          date_start: '2023-03-01'
-          date_end: ''
+        - title: PhD Candidate
+          company: University of Sydney / CMRI
+          company_url: 'https://www.sydney.edu.au/'
+          company_logo: usyd
+          location: Sydney
+          date_start: '2020-03-01'
+          date_end: '2023-02-28'
           description: |2-
-              
-              * Fundamentals of Programming
-              * Software Engineering with Java
+              * Thesis: Large-Scale and Pan-Cancer Proteogenomic Analyses with Machine Learning
+              * Sydney Cancer Partners PhD Scholarship recipient
 
 
         - title: Data Scientist

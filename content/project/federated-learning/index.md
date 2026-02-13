@@ -1,0 +1,14 @@
+---
+title: Federated Deep Learning for Cancer Proteomics
+tags:
+- Federated Learning
+- Cancer Subtyping
+- Deep Learning
+- Privacy-Preserving AI
+- Proteomics
+
+date: "2025-02-13T00:00:00Z"
+
+---
+
+The sharing of sensitive patient data across institutions is a major bottleneck in cancer research. To address this, we developed a federated deep learning framework that enables collaborative training of cancer subtyping models without sharing raw data. By keeping data local and only sharing model updates, we can leverage the collective power of distributed datasets while preserving patient privacy. Our results demonstrate that federated models achieve performance comparable to centralized training, paving the way for large-scale, multi-institutional collaborations in precision oncology. This project culminated in the first application of federated learning to cancer proteomics, published in *Cancer Discovery*.

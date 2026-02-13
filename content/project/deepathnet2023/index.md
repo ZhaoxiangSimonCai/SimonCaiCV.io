@@ -1,13 +1,13 @@
 ---
 title: Transformer-based deep learning integrates multi-omic data with cancer pathways
 tags:
-- Deep learning
+- Deep Learning
 - Transformer
-- Multi-omic integration
-- Cancer cell lines
-- Cancer pathwas
+- Multi-omics
+- Pathway Analysis
+- Interpretability
 
-date: "2023-06-15T00:00:00Z"
+date: "2024-12-18T00:00:00Z"
 
 ---
 
