@@ -11,14 +11,17 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  - block: collection
+    id: featured
     content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
     design:
       columns: '2'
+      view: card
   - block: experience
     content:
       title: Experience
@@ -31,25 +34,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Cancer Institute NSW Early Career Fellow
-          company: Children's Medical Research Institute
-          company_url: 'https://www.cmrijeansforgenes.org.au/'
-          company_logo: cmri
-          location: Westmead
-          date_start: '2026-01-01'
-          date_end: ''
-          description: |2-
-              * Improving Cancer Diagnosis and Prognosis via Generative Proteomic Foundation Model and Federated Learning
 
-        - title: Conjoint Associate Lecturer
-          company: University of Sydney
-          company_url: 'https://www.sydney.edu.au/'
-          company_logo: usyd
-          location: Sydney
-          date_start: '2023-06-15'
-          date_end: ''
-
-        - title: Senior Data Scientist
+        - title: Senior Data Scientist - Cancer Institute NSW Fellow
           company: Children's Medical Research Institute
           company_url: 'https://www.cmrijeansforgenes.org.au/'
           company_logo: cmri
@@ -63,7 +49,14 @@ sections:
               *	Performed end-to-end whole exome/genome sequencing data analyses for germline/somatic mutations, copy number variations and structural variants
               *	Performed end-to-end proteomic data analyses, including data QC, peptide-to-protein rollup, pre-processing, differential expression analysis, pathway analysis and survival analysis
               *	Worked on integrating histopathological images with proteomic data to improve diagnosis
-
+              
+        - title: Conjoint Associate Lecturer
+          company: University of Sydney
+          company_url: 'https://www.sydney.edu.au/'
+          company_logo: usyd
+          location: Sydney
+          date_start: '2023-06-15'
+          date_end: ''
 
         - title: PhD Candidate
           company: University of Sydney / CMRI
@@ -103,17 +96,6 @@ sections:
               * Provided production support and maitained the health of testing environment
     design:
       columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: collection
     content:
       title: Recent Publications
@@ -165,6 +147,14 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '2'
   - block: tag_cloud
     content:
       title: Popular Topics
