@@ -49,8 +49,8 @@ publishDate: "2017-07-14T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Cancer Cell*
-publication_short: In *Cancer Cell*
+publication: "In *Cancer Cell* &nbsp;·&nbsp; FWCI: 10.50"
+publication_short: "In *Cancer Cell*"
 
 abstract: The proteome provides unique insights into disease biology beyond the genome and transcriptome. A lack of large proteomic datasets has restricted the identification of new cancer biomarkers. Here, proteomes of 949 cancer cell lines across 28 tissue types are analyzed by mass spectrometry. Deploying a workflow to quantify 8,498 proteins, these data capture evidence of cell-type and post-transcriptional modifications. Integrating multi-omics, drug response, and CRISPR-Cas9 gene essentiality screens with a deep learning-based pipeline reveals thousands of protein biomarkers of cancer vulnerabilities that are not significant at the transcript level. The power of the proteome to predict drug response is very similar to that of the transcriptome. Further, random downsampling to only 1,500 proteins has limited impact on predictive power, consistent with protein networks being highly connected and co-regulated. This pan-cancer proteomic map (ProCan-DepMapSanger) is a comprehensive resource available at https://cellmodelpassports.sanger.ac.uk.
 

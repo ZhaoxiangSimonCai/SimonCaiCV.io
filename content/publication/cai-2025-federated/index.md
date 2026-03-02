@@ -35,7 +35,7 @@ publishDate: "2025-02-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Cancer Discovery*"
+publication: "*Cancer Discovery* &nbsp;·&nbsp; FWCI: 3.58"
 publication_short: "*Cancer Discovery*"
 
 abstract: "The proteome provides unique insights into disease biology beyond the genome and transcriptome. However, the sharing of raw proteomic data across institutions is hindered by privacy concerns and data volume. Here, we present a federated deep learning framework for cancer subtyping using mass spectrometry-based proteomic data. By training on distributed datasets without centralized data sharing, our approach achieves performance comparable to centralized training. We demonstrate the utility of this framework by classifying 14 cancer subtypes across 7,500 cancer proteomes from multiple centers. This work introduces the first application of federated deep learning to cancer proteomics, enabling collaborative research while preserving data privacy."

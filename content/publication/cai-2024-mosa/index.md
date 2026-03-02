@@ -22,7 +22,7 @@ publishDate: "2024-11-29T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Communications*"
+publication: "*Nature Communications* &nbsp;·&nbsp; FWCI: 2.83"
 publication_short: "*Nat Commun*"
 
 abstract: "We introduce MOSA (Multi-Omic Synthetic Augmentation), an unsupervised deep learning model for integrating and augmenting cancer multi-omics data. By leveraging variational autoencoders, MOSA generates synthetic multi-omic profiles that expand the effective sample size of cancer datasets, enabling the discovery of new biomarkers and drug targets. We demonstrate that MOSA-augmented data improves the power of association studies and clustering analyses, providing a valuable resource for the cancer research community."

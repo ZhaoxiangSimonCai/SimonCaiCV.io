@@ -19,7 +19,7 @@ publishDate: "2024-12-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Cancer Research Communications*"
+publication: "*Cancer Research Communications* &nbsp;·&nbsp; FWCI: 3.29"
 publication_short: "*Cancer Res Commun*"
 
 abstract: "DeePathNet is a transformer-based deep learning model that integrates multi-omic data with biological pathway information. By embedding pathway knowledge directly into the model architecture, DeePathNet improves the interpretability and performance of cancer subtype classification and drug response prediction. We demonstrate the utility of DeePathNet on large-scale datasets, highlighting its ability to identify pathway-level biomarkers and mechanisms of action."
